@@ -1,6 +1,6 @@
 # 📚 South Brunswick Public Library
 
-##Welcome to the official GitHub page for the South Brunswick Public Library!
+## Welcome to the official GitHub page for the South Brunswick Public Library!
 
 >[!WARNING]
 > If you saw something like SBPL on github,that isn't us for your information
